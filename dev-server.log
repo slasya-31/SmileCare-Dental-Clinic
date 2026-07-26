@@ -1,0 +1,20 @@
+
+> smilecare-dental-clinic@0.1.0 dev
+> next dev -p 3000
+
+▲ Next.js 16.2.12 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.6:3000
+- Environments: .env.local
+✓ Ready in 718ms
+Creating turbopack project { dir: 'C:\\Desktop\\dental care', testMode: true }
+
+ GET /appointment 200 in 545ms (next.js: 211ms, application-code: 334ms)
+ GET /appointment 200 in 84ms (next.js: 7ms, application-code: 77ms)
+ GET /appointment 200 in 144ms (next.js: 14ms, application-code: 131ms)
+✓ Compiled in 1498ms
+ GET /appointment 200 in 199ms (next.js: 121ms, application-code: 78ms)
+ GET /appointment 200 in 1602ms (next.js: 168ms, application-code: 1434ms)
+✓ Compiled in 1067ms
+ GET /appointment 200 in 642ms (next.js: 325ms, application-code: 317ms)
+ GET /appointment 200 in 816ms (next.js: 9ms, application-code: 808ms)
