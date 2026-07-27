@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   },
   description:
     "Modern dental clinic offering preventive, cosmetic, restorative, and emergency dental care.",
+  verification: {
+    google: "google-site-verification: google211d3a20eeecfb5f.html",
+  },
   applicationName: "SmileCare Dental Clinic",
   authors: [{ name: "SmileCare Dental Clinic" }],
   creator: "SmileCare Dental Clinic",
